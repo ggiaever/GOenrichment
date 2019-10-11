@@ -1,0 +1,13 @@
+Package: GOenrichment
+Type: Package
+Title: Go Enrichment Analysis
+Version: 0.1.0
+Author: Guri Nina Giaever
+Maintainer: Guri Giaever <ggiaever@gmail.com>
+Description: Go enrichment analysis and visualization tool 
+    Based on Anna Y. Lee
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2019-10-11 16:22:39 UTC; ggiaever
